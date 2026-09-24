@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PIGLIN\\documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\server.csproj": {}
+    "C:\\Users\\PIGLIN\\Documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PIGLIN\\documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\server.csproj": {
+    "C:\\Users\\PIGLIN\\Documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PIGLIN\\documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\server.csproj",
+        "projectUniqueName": "C:\\Users\\PIGLIN\\Documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\server.csproj",
         "projectName": "server",
-        "projectPath": "C:\\Users\\PIGLIN\\documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\server.csproj",
+        "projectPath": "C:\\Users\\PIGLIN\\Documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\server.csproj",
         "packagesPath": "C:\\Users\\PIGLIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PIGLIN\\documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\obj\\",
+        "outputPath": "C:\\Users\\PIGLIN\\Documents\\ISRPO_Istomin_Maksim\\Lab4_ISRPO_Istomin\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PIGLIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
