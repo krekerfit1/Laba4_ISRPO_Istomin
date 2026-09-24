@@ -1,6 +1,8 @@
 ﻿
-Console.WriteLine("Приииииииииииииииивет я!");
-Console.WriteLine("Истомин Максим Алексеевич");
-Console.WriteLine("Группа: ИСП-243");
-Console.WriteLine($"дата и время: {DateTime.Now}");
+Console.WriteLine("Добро пожаловать!");
 
+Console.WriteLine("--- МЕНЮ ---");
+Console.WriteLine("1. Показать ФИО");
+Console.WriteLine("2. Показать группу");
+Console.WriteLine("3. Показать дату");
+Console.WriteLine("4. Выход");
