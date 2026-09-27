@@ -27,7 +27,7 @@
 ## Структура проекта
 
 
-![terminal](./repo/tree_by_Istomin.png)
+![terminal](./repo/tree_by_istomin.png)
 
 ---
 
@@ -99,7 +99,6 @@ $$
 **История коммитов на GitHub:**
 
 ![git](./repo/tree_by_istomin.png)
-
 ---
 
 ## Заключение
