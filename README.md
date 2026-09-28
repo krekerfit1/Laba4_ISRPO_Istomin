@@ -94,7 +94,8 @@ $$
 
 **Структура проекта в терминале:**
 
-![terminal](./repo/tree_by_Istomin.png)
+![terminal](./repo/tree_by_istomin.png)
+
 
 **История коммитов на GitHub:**
 
